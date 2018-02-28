@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/dist/src/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/webpack.base.conf.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/static/js/manifest.715cfa23d7cdb8df415e.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/static/js/app.fdac3e82baf2ad9c5d71.js" />
+        <item url="file://$PROJECT_DIR$/dist/docs/static/js/vendor.2a10afd5b8c1a6e03fc1.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/.eslintrc.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/build/webpack.base.conf.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/dist/src/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/webpack.base.conf.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/static/js/manifest.715cfa23d7cdb8df415e.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/static/js/app.fdac3e82baf2ad9c5d71.js" />
+      <root url="file://$PROJECT_DIR$/dist/docs/static/js/vendor.2a10afd5b8c1a6e03fc1.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/.eslintrc.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/build/webpack.base.conf.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

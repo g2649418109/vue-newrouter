@@ -1,0 +1,89 @@
+{
+    "1": [
+      {
+        "path": "/homepage",
+        "name": "首页"
+      },
+      {
+        "path": "/leaknav",
+        "name": "漏洞管理",
+        "children": []
+      },
+      {
+        "path": "/workordernav",
+        "name": "工单管理",
+        "children": []
+      },
+      {
+        "path": "/systemnav",
+        "name": "系统设置",
+        "children": []
+      },
+      {
+        "path": "/presentation",
+        "name": "报告管理"
+      }
+    ],
+    "2": [
+      {
+        "path": "/leaknav/leak-1",
+        "name": "全部漏洞"
+      },
+      {
+        "path": "/leaknav/leak-2",
+        "name": "待提交漏洞"
+      },
+      {
+        "path": "/leaknav/leak-3",
+        "name": "待审核漏洞"
+      },
+      {
+        "path": "/leaknav/leak-4",
+        "name": "待处理漏洞"
+      },
+      {
+        "path": "/leaknav/leak-5",
+        "name": "待验证漏洞"
+      },
+      {
+        "path": "/workordernav/workorder-1",
+        "name": "全部工单"
+      },
+      {
+        "path": "/workordernav/workorder-2",
+        "name": "待处理工单"
+      },
+      {
+        "path": "/workordernav/workorder-3",
+        "name": "待审核工单"
+      },
+      {
+        "path": "/workordernav/workorder-4",
+        "name": "待验证工单"
+      },
+      {
+        "path": "/systemnav/system-1",
+        "name": "用户管理"
+      },
+      {
+        "path": "/systemnav/system-2",
+        "name": "角色管理"
+      },
+      {
+        "path": "/systemnav/system-3",
+        "name": "字典管理"
+      },
+      {
+        "path": "/systemnav/system-4",
+        "name": "标签管理"
+      },
+      {
+        "path": "/systemnav/system-5",
+        "name": "邮件网关"
+      },
+      {
+        "path": "/systemnav/system-6",
+        "name": "系统日志"
+      }
+    ]
+}

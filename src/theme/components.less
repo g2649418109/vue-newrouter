@@ -1,0 +1,60 @@
+/*customer theme for src*/
+@vm-grey: #99a9c0;
+@vm-grey-light: #f4f4f4;
+@vm-spacing-base: 15px;
+
+@border-split: 1px solid @border-color-split;
+@border-out: 1px solid @border-color-base;
+
+.vm-login{
+  width: 900px;
+  height: 400px;
+  &>div{
+    padding: 30px;
+  }
+  .login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #fff;
+    .login-header{
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 20px;
+      span{
+        color: @primary-color;
+      }
+    }
+    .login-form{
+      input{
+        margin-bottom: 20px;
+        width: 100%;
+        height: 45px;
+      }
+      button{
+        height: 45px;
+        width: 100%;
+      }
+    }
+    .login-footer{
+      margin-top: 10px;
+      span.forget{
+        float: right;
+      }
+    }
+  }
+  .login-ad{
+    height: 100%;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 0 @btn-border-radius @btn-border-radius 0;
+    background: url("../assets/img/login-bg.jpg");
+    .photo-author{
+      position: absolute;
+      right: 6px;
+      bottom: 45px;
+    }
+  }
+}
+

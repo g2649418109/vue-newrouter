@@ -1,0 +1,90 @@
+{
+    "1": [
+      {
+        "path": "/homepage",
+        "name": "首页"
+      },
+      {
+        "path": "/leaknav",
+        "name": "第二页",
+        "children": []
+      },
+      {
+        "path": "/workordernav",
+        "name": "第三页",
+        "children": []
+      },
+      {
+        "path": "/systemnav",
+        "name": "第四页",
+        "children": []
+      },
+      {
+        "path": "/presentation",
+        "name": "第五页"
+      }
+    ],
+    "2": [
+      {
+        "path": "/leaknav/leak-1",
+        "name": "第二页1"
+      },
+      {
+        "path": "/leaknav/leak-2",
+        "name": "第二页2"
+      },
+      {
+        "path": "/leaknav/leak-3",
+        "name": "第二页3"
+      },
+      {
+        "path": "/leaknav/leak-4",
+        "name": "第二页4"
+      },
+      {
+        "path": "/leaknav/leak-5",
+        "name": "第二页5"
+      },
+      {
+        "path": "/workordernav/workorder-1",
+        "name": "第三页1"
+      },
+      {
+        "path": "/workordernav/workorder-2",
+        "name": "第三页2"
+      },
+      {
+        "path": "/workordernav/workorder-3",
+        "name": "第三页3"
+      },
+      {
+        "path": "/workordernav/workorder-4",
+        "name": "第三页4"
+      },
+      {
+        "path": "/systemnav/system-1",
+        "name": "第四页1"
+      },
+      {
+        "path": "/systemnav/system-2",
+        "name": "第四页2"
+      },
+      {
+        "path": "/systemnav/system-3",
+        "name": "第四页3"
+      },
+      {
+        "path": "/systemnav/system-4",
+        "name": "第四页4"
+      },
+      {
+        "path": "/systemnav/system-5",
+        "name": "第四页5"
+      },
+      {
+        "path": "/systemnav/system-6",
+        "name": "第四页6"
+      }
+    ],
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+}
